@@ -7,6 +7,10 @@ Aluno: Marcelo Amarante Ferreira Gomes (2373171024)
 
 ## Data de entrega: 13 de out.
 
+## Repositório do módulo
+
+https://github.com/mafgomes/rn2_http_module.git
+
 ## Enunciado
 
 Nosso primeiro aplicativo oferece uma solução para Pedidos Online.
