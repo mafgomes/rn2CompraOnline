@@ -1,0 +1,20 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "@assets/*": ["./src/assets/*"],
+      "@atom/*": ["./src/atom/*"],
+      "@components/*": ["./src/components/*"],
+      "@contexts/*": ["./src/contexts/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@routes/*": ["./src/routes/*"],
+      "@screens/*": ["./src/screens/*"],
+      "@services/*": ["./src/services/*"],
+      "@shared/*": ["./src/shared/*"],
+      "@storage/*": ["./src/storage/*"],
+      "@styles/*": ["./src/styles/*"]
+    }
+  }
+}
